@@ -1,5 +1,5 @@
 ## Hi, I'm Vicho! 👋
-   I'm a young programmer from chile 🇨🇱 
+   I'm a young programmer from Chile 🇨🇱 
 ## I code with:
   <div align="center">
     <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
