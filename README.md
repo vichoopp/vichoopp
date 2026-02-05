@@ -3,7 +3,7 @@
 # I code with: 
   <div align="center">
     <img src="https://skillicons.dev/icons?i=py" height="65" alt="python logo"  />
-    <img width="300" />
+    <img width="24" />
     <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="cpp logo"  />
-    <img width="300" />
+    <img width="24" />
   </div>
