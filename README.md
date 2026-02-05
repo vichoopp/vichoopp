@@ -6,4 +6,6 @@
     <img width="24" />
     <img src="https://skillicons.dev/icons?i=cpp" height="65" alt="cpp logo"  />
     <img width="24" />
+     <img src="https://skillicons.dev/icons?i=js" height="65" alt="js logo"  />
+    <img width="24" />
   </div>
